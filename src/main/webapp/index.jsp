@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-md-20 ml-auto mr-auto">
                     <div class="brand">
-                        <h1>Integration of Git + Maven + Jenkins + Tomcat is successfull</h1>
+                        <h1>Git + Maven + Jenkins + Tomcat Integration was successfull</h1>
                         <h3>Example Project for Testing</h3>
                     </div>
                 </div>
