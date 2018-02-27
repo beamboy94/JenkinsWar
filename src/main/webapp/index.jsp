@@ -26,9 +26,9 @@
     <div class="page-header header-filter clear-filter purple-filter" data-parallax="true" style="background-image: url('assets/img/bg2.jpg');">
         <div class="container">
             <div class="row">
-                <div class="col-md-20 ml-auto mr-auto">
+                <div class="col-md-22 ml-auto mr-auto">
                     <div class="brand">
-                        <h1>Git + github + Maven + Jenkins + Tomcat   Integration was successfull</h1>
+                        <h1>Git + Github + Maven + Jenkins + Tomcat   Integration was successfull</h1>
                         <h3>Example Project for Testing</h3>
                     </div>
                 </div>
