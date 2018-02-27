@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-md-22 ml-auto mr-auto">
                     <div class="brand">
-                        <h2>Git + Github + Maven + Jenkins + Tomcat </h2>
+                        <h2>Git + Github + Maven + Jenkins + Tomcat1 </h2>
 						<h2>  Integration was successfull</h2>
                         <h3>Example Project for Testing</h3>
                     </div>
